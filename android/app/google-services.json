@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828404460748",
+    "project_id": "startup-f3db0",
+    "storage_bucket": "startup-f3db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828404460748:android:2269c5a906ecc1f9456669",
+        "android_client_info": {
+          "package_name": "com.example.bingee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828404460748-rmmf1enndojotuusrmre9bsbcq3d90do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bingee",
+            "certificate_hash": "a2ff3b6e8c0f1c45744180ba9370f524534cfa02"
+          }
+        },
+        {
+          "client_id": "828404460748-qbb5o2hd5d334ajtkbcj70nsu5jprjr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MQZcGEwWtm1wrnR7Syw1Rt7IVH2Aon4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828404460748-qbb5o2hd5d334ajtkbcj70nsu5jprjr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
